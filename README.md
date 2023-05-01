@@ -1,11 +1,12 @@
 <a name="readme-top"></a>
-<div align="center">
 
-  <h3><b>My Portfolio README guide</b></h3>
+<div align="center">
+  <img src="assets/ben1.png" alt="logo" width="50"  height="100" />
+  <br/>
+
+  <h2><b>Awesome Books Project</b></h2>
 
 </div>
-
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -15,140 +16,159 @@
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
   - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
-# 📖 Nahid-s_Portfolio <a name="about-project"></a>
+# 📖 "Awesome Books" Project <a name="about-project"></a>
 
-Nahid-s_Portfolio is a HTML and CSS porject to develop personal portfolio wiith some mandatory features.
+This project is a website for book storage. The website features a modern and sophisticated Single Page Application design.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Software</summary>
+  <summary>Client</summary>
   <ul>
-    <li><a href=" ">HTML</a></li>
-    <li><a href=" ">CSS</a></li>
+    <li><a href="https://rhtml.com/">HTML and CSS</a></li>
+    <li><a href="https://javascript.com/">Javascript</a></li>
+    <li><a href="https://sass.com/">css</a></li>
   </ul>
 </details>
 
-<!-- Features -->
-
 ### Key Features <a name="key-features"></a>
 
-- Work Showcase
-- Personal Information
-- Contact information
+- **HTML and CSS**
+- **Linters**
+- **Git and Github**
+- **JavaScript**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
+<!-- ## 🚀 Live Demo <a name="live-demo"></a>
 
-## 🚀 Live Demo <a name="live-demo"></a>
+- [Live Demo Link](https://benm4k.github.io/AwesomeBooksProject/) -->
 
-To see the live demo of the page please click <a href="https://nahid1911.github.io/Nahid-s_Portfolio/">here</a>:
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
-
-Have a knowledge about the project please see the <a href="https://www.loom.com/share/cad0b76c62684be99ed5ad72c25bd3be">project walkthrough</a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
+
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
+In order to run this project you need: 
+- GitHub;
+- Code Editor;
+- Basic Knowledge of HTML and CSS;
 
-Install text editor like Visual Studio
 
 ### Setup
 
-Clone this repository to your desired folder using the command:
+Clone this repository to your desired folder:
+```sh
+  cd my-folder
+  git clone https://github.com/BenM4k/AwesomeBooksProject.git
+```
+
+
+### Install
+
+Install this project with:
+- npm install
+
+<!--
+Example command:
 
 ```sh
-  cd folder_name
-  git clone git@github.com:Nahid1911/Nahid-s_Portfolio.git
+  cd my-project
+  gem install
 ```
+--->
+
 ### Usage
 
-After cloning the project you can customize it replacing the personal information with required information:
+To run the project, execute the following command:
+
+- Run it in your local machine with local server
 
 ### Run tests
 
 To run tests, run the following command:
 
-```sh
-  npx stylelint "**/*.{css,scss}"
-```
+- npx stylelint "**/*.{css,scss}"
+- npx hint .
+
+### Deployment
+
+You can deploy this project using:
+
+GitHub Pages
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
-Collaborators of this project is:
+👤 **Benedict Makomo**
 
-👤 Mohammad Nahid Raihan Sardar
+- GitHub: [@githubhandle](https://github.com/BenM4k)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/b%C3%A9n%C3%A9dict-makomo-885856248/)
 
+👤 **Nahid Raihan Sardar**
 - GitHub: [@githubhandle](https://github.com/Nahid1911)
-- Twitter: [@twitterhandle](https://twitter.com/Nahid1911)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nahidraihan/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] JavaScript
+- [ ] **Project page**
+- [ ] **Join page**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Feel free to check the [issues page](https://github.com/BenM4k/First_Capstone_Project/issues).
 
-<!-- SUPPORT -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project please show your support by giving stars.
+If you like this project, U can reach me on my Twitter handle for any collaboration. Here is my Paypal account, for any fund assistance.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for the inspiration to create this portfolio as a part of my learning journey.
+I would like to thank Microverse and all My Micronauts partners for their help on this project. 
+
+I would like to thank My coding partner Nahid Raihan Sardar for his work, professionalism and skills showcase.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE.md) licensed.
+This project is [MIT](./LICENSE) licensed.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
