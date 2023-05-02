@@ -1,4 +1,3 @@
-/* eslint-disable linebreak-style */
 import Books from './modules/book_class.js';
 import { storeForm, displayBooks } from './modules/functions.js';
 import { DateTime } from './modules/luxon.js';
